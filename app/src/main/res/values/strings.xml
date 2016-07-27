@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RxDemo</string>
+    <string name="send_request">Send request</string>
 </resources>
